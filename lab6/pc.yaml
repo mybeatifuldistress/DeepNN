@@ -1,0 +1,9 @@
+path: /Users/hellobastard/DeepNN/lab6 # dataset root dir
+train: data/train/images # train images (relative to 'path') 
+val: data/val/images # val images (relative to 'path')
+
+# Classes
+names:
+  0: keyboard
+  1: mice
+  2: monitor
